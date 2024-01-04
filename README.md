@@ -11,8 +11,8 @@ clone the repository
 ```
 git clone https://github.com/zafiqul/hardhat-simple-storage
 ```
-Change Directory 
-``` cd hardhat-simple-storage```
+Change Directory <br>
+``` cd hardhat-simple-storage```<br>
 Install dependency 
 ```
 yarn
